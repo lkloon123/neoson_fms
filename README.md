@@ -14,7 +14,7 @@ DEMO Pass : demo123
 ### Prerequisites
 - required - `php 7.2`
 - recommended software- `xampp` 
-- required to install and run this client software at miner - [link](https://github.com/lkloon123/neosonfms_fms_launcher)
+- required to install and run this client software at miner - [link](https://github.com/lkloon123/neoson_fms_launcher)
 
 ### Installation
 
