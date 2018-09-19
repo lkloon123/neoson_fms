@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+  .dataTable td li {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 320px;
+  }
+}
+
+.action_fix {
+  display: inline;
+}
