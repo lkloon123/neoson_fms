@@ -1,9 +1,9 @@
 # NeoSon Farm Management System
 
 The purpose of FMS is to simplify the process of handling multiple crypto mining machine with one click.  
-[DEMO](https://neosonfms.herokuapp.com/)
-DEMO Login: lkloon123@hotmail.com
-DEMO Pass : demo123
+DEMO Login: lkloon123@hotmail.com  
+DEMO Pass : demo123  
+[DEMO](https://neosonfms.herokuapp.com/)  
 
 ## Features
 - Start multiple miner at once
