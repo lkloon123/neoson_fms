@@ -5,7 +5,7 @@
             "name": "Lam Kai Loon",
             "email": "lkloon123@hotmail.com",
             "role": "Core Developer"
-        },
+        }
     ],
     "require": {
         "php": ">=7.1.3",
