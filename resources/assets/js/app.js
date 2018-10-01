@@ -15,6 +15,7 @@ import AppInit from './pages/AppInit';
 import VueScroll from 'vuescroll';
 import VModal from 'vue-js-modal'
 import VueClipboard from 'vue-clipboard2';
+import VueAnalytics from 'vue-analytics';
 
 Vue.use(VueRouter);
 Vue.use(VeeValidate);
@@ -30,6 +31,10 @@ Vue.use(HashrateConvertorPlugin);
 Vue.use(VueScroll);
 Vue.use(VModal);
 Vue.use(VueClipboard);
+Vue.use(VueAnalytics, {
+    id: 'UA-43490560-2',
+    router
+});
 
 require('./config/interceptors');
 require('./config/router_guards');
